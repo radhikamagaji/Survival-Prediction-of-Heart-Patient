@@ -1,2 +1,3 @@
 # Survival-Prediction-of-Heart-Patient
 The study attempts to find the significant medical factors that play a role in a patient's death due to heart failure. 
+The dataset contains medical records of patients and medical attributes, potentially contributing to patients' survival. Machine learning models such as Decision Tree and Support Vector Machines were implemented to predict patients' death from their medical records. The models were able to identify Serum creatinine and Ejection fraction as the most significant features among those included in their medical records with accuracy of around 75% for tree-based models and 85% for SVM models.
